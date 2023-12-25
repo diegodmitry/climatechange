@@ -1,5 +1,5 @@
 # Climate Change News Scraper
-This project is a simple web scraper that fetches news articles related to climate change from The Guardian's website.
+This project is a simple web scraper that fetches news articles related to climate change.
 
 ## Technologies Used
 * Node.js
